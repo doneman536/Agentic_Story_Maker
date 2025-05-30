@@ -1,0 +1,623 @@
+The 65.7 Paradox
+
+
+1		:-  The Forest's Captives
+
+2		:-  Echoes of Time
+
+3		:-  The Clock's Toll
+
+4		:-  Shadows of the Past
+
+5		:-  Symbols in the Mud
+
+6		:-  Fractured Trust
+
+7		:-  The First to Fall
+
+8		:-  Whispers of the Ancients
+
+9		:-  The Loop's Mechanics
+
+10		:-  Breaking the Cycle
+
+11		:-  Heart of the Labyrinth
+
+12		:-  Escape or Sacrifice
+
+The 65.7 Hour Cycle: A Forest of Endless Dawn
+
+
+1		:-  The Unseen Path
+
+2		:-  Echoes of the Past
+
+3		:-  The Timer of the Woods
+
+4		:-  Fractured Trust
+
+5		:-  Whispers in the Wilderness
+
+6		:-  The Temple Beneath the Canopy
+
+7		:-  The Ritual of Renewal
+
+8		:-  Betrayal at the Crossroads
+
+9		:-  The Celestial Compass
+
+10		:-  The Labyrinth's Defiance
+
+11		:-  Breaking the Cycle
+
+12		:-  Dawn’s Embrace
+
+Echoes of the Prime Self
+
+
+1		:-  The Quantum Awakening
+
+2		:-  Fractured Echoes
+
+3		:-  Selves in the Shadows
+
+4		:-  The Architect of Collapse
+
+5		:-  The Mirror's Deception
+
+6		:-  The Prime Directive Betrayed
+
+7		:-  Convergence of Realities
+
+8		:-  Eyes of the Multiverse
+
+9		:-  The Final Synchronization
+
+10		:-  Whispers of the Infinite
+
+Echoes of the Prime Self
+
+
+1		:-  The Fractured Horizon
+
+2		:-  Echoes of a Dying Self
+
+3		:-  The Unseen Code
+
+4		:-  Shadows in the Cognitive Web
+
+5		:-  The Prime Directive
+
+6		:-  Mirror of Truth
+
+7		:-  Fractured Reflections
+
+8		:-  The Siege of Self
+
+9		:-  Sacrifice in the Multiverse
+
+10		:-  Echoes in the Static
+
+The Quantum Echo
+
+
+1		:-  The Fractured Beacon
+
+2		:-  Echoes of Extinction
+
+3		:-  The Paradox Protocol
+
+4		:-  The Shadow Self Emerges
+
+5		:-  Synchronicity Sabotage
+
+6		:-  The Archive of Lost Selves
+
+7		:-  The Prime Directive
+
+8		:-  The Crossroads of Consciousness
+
+9		:-  The Siege of Selves
+
+10		:-  The Unification Paradox
+
+Whispers in Porcelain
+
+
+1		:-  The Crucible of Ash and Clay
+
+2		:-  The Auction of Forgotten Things
+
+3		:-  A Guest for the Dollhouse
+
+4		:-  The Unseen Hand at the Window
+
+5		:-  Portraits That Bleed
+
+6		:-  The Language of Lacerations
+
+7		:-  The Substitute's Lullaby
+
+8		:-  The Bone Alphabet
+
+9		:-  The Ogham Veil
+
+10		:-  The Thirteenth Cradle
+
+11		:-  The Ritual of Unmaking
+
+12		:-  Silence in the Cradle
+
+The Whispering Porcelain
+
+
+1		:-  The Bone and the Whisper
+
+2		:-  The First Breath
+
+3		:-  The Unseen Customer
+
+4		:-  Echoes in the Walls
+
+5		:-  Whispers in the Glass
+
+6		:-  Fractured Reflections
+
+7		:-  Dreams That Bleed
+
+8		:-  The Substitute
+
+9		:-  No Mirrors, No Truth
+
+10		:-  The Ritual of the Triple Spiral
+
+11		:-  The Breaking
+
+12		:-  Silent Whispers
+
+Elspeth's Whispering Curse
+
+
+1		:-  The Bones of Elspeth
+
+2		:-  The Shop of Forgotten Things
+
+3		:-  Whispers in the Nursery
+
+4		:-  The Unseen Visitor
+
+5		:-  Fragments of a Face
+
+6		:-  The Weight of Unspoken Words
+
+7		:-  The Lie That Bleeds
+
+8		:-  The Shadow at the Table
+
+9		:-  The Rite of Thorns
+
+10		:-  The Hollow Child
+
+11		:-  The Price of Silence
+
+12		:-  The Porcelain Heart
+
+Bonds Rekindled
+
+
+1		:-  The Unshakable Quartet: A Childhood of Unity
+
+2		:-  New Horizons, Diverging Paths
+
+3		:-  Cracks in the Foundation: Blame and Betrayal
+
+4		:-  Collision in the Courtyard: Confrontation and Chaos
+
+5		:-  Echoes of the Past: A Revelation in the Library
+
+6		:-  Forged in Crisis: The Rebirth of Friendship
+
+The Four Flames: A Journey Through Division and Unity
+
+
+1		:-  The Unshaken Bond
+
+2		:-  New Horizons, Separate Roads
+
+3		:-  Whispers of Drift
+
+4		:-  The Fracture Begins
+
+5		:-  Alone in the Storm
+
+6		:-  Echoes of a Fading Flame
+
+7		:-  The Spark of Realization
+
+8		:-  Embers Rekindled
+
+Bonds Beyond College Halls
+
+
+1		:-  The Unbreakable Pact of Four Stars
+
+2		:-  New Horizons, Diverging Paths
+
+3		:-  Whispers of Doubt in the Lecture Halls
+
+4		:-  Falling Apart at the Promised Shore
+
+5		:-  The Shadow of Blame and a Shattered Mirror
+
+6		:-  The Crossroads of Pride and Redemption
+
+7		:-  Forged in the Flames of Misunderstanding
+
+8		:-  A New Constellation: United Under the Same Sky
+
+Bonds Rekindled: The College Divide
+
+
+1		:-  The Unbreakable Quartet
+
+2		:-  New Horizons, Diverging Paths
+
+3		:-  Cracks in the Foundation
+
+4		:-  Shattered Trust: Blame and Betrayal
+
+5		:-  Solo Battles in the Storm
+
+6		:-  Echoes of the Past: A Call to Reconciliation
+
+7		:-  United Front: Confronting the Storm Together
+
+8		:-  Forged in Fire: The Strength of True Friendship
+
+The Four Flames: Forged by Distance, Rekindled by Truth
+
+
+1		:-  The Unbreakable Bond: A Summer of Shared Secrets
+
+2		:-  Different Paths, Diverging Souls
+
+3		:-  The First Crack: A Silent Argument Over Ambition
+
+4		:-  Echoes of Silence: Letters Left Unread
+
+5		:-  The Catalyst of Blame: A Fallen Scholarship
+
+6		:-  The Fractured Mirror: Confronting Shared Shadows
+
+7		:-  Forged in the Fire: Mending the Broken Pieces
+
+8		:-  Embers Rekindled: A Friendship Forged Through Flames
+
+Bonds Unbroken
+
+
+1		:-  The Unbreakable Quartet
+
+2		:-  New Horizons, Diverging Paths
+
+3		:-  Silent Fractures
+
+4		:-  Blame and Betrayal
+
+5		:-  The Fallout
+
+6		:-  Echoes of the Past
+
+7		:-  Mending What’s Fractured
+
+8		:-  Unity Reinvented
+
+Bonds Forged and Mended: A Journey of Four Friends
+
+
+1		:-  The Unbreakable Quartet: A Summer of Unity
+
+2		:-  New Horizons, New Paths: The First Semester Divide
+
+3		:-  Drifting Tides: Secrets and Silent Fights
+
+4		:-  The Breaking Point: A Betrayal No One Saw
+
+5		:-  Echoes of the Past: A Chance Encounter Awakens Memories
+
+6		:-  Confrontation in the Storm: Voices Rise in the Rain
+
+7		:-  Mending the Fractures: Vulnerability and Vows Renewed
+
+8		:-  A New Dawn: United Beyond the Divide
+
+Bonds Forged and Mended
+
+
+1		:-  The Unbreakable Quartet
+
+2		:-  New Horizons, Separate Paths
+
+3		:-  Trials of Distance
+
+4		:-  Fractured Trust
+
+5		:-  Echoes of the Past
+
+6		:-  Bridges Across the Divide
+
+7		:-  The Crucible of Crisis
+
+8		:-  Forged in the Fire
+
+The College Divide: Bonds Forged and Rediscovered
+
+
+1		:-  The Unbreakable Bond
+
+2		:-  New Beginnings, New Distances
+
+3		:-  Fissures in the Foundation
+
+4		:-  Solo Battles and Growing Pains
+
+5		:-  The Breaking Point
+
+6		:-  A Glimmer of Hope
+
+7		:-  Confronting the Storm
+
+8		:-  Rekindled Bonds
+
+Bonds Forged and Mended
+
+
+1		:-  The Unshakable Quartet
+
+2		:-  New Horizons: The Dawn of Change
+
+3		:-  Drifting Apart: Paths Diverge
+
+4		:-  Trials of Ambition and Dreams
+
+5		:-  The Crisis That Calls Them Home
+
+6		:-  Confronting Shadows: The Hard Truths
+
+7		:-  Forging New Bonds in the Fire of Adversity
+
+8		:-  Renewed Unity: The Strength in Togetherness
+
+The College Divide: A Journey of Friendship and Triumph
+
+
+1		:-  The Unbreakable Bond
+
+2		:-  Paths Diverge
+
+3		:-  Cracks in the Foundation
+
+4		:-  Shattered Trust
+
+5		:-  The Weight of Silence
+
+6		:-  Storm Before the Calm
+
+7		:-  Bridges Rebuilt
+
+8		:-  Forged in Adversity
+
+Bonds Rekindled
+
+
+1		:-  The Unbreakable Bond
+
+2		:-  Paths Diverge
+
+3		:-  The First Rift
+
+4		:-  Echoes of Estrangement
+
+5		:-  A Crisis Unites
+
+6		:-  Facing the Fractures
+
+7		:-  Mending the Fabric
+
+8		:-  Renewed Promises
+
+Bonds Rekindled: The College Divide
+
+
+1		:-  The Unbreakable Four
+
+2		:-  New Horizons, New Distances
+
+3		:-  Cracks in the Foundation
+
+4		:-  Blame and Betrayal
+
+5		:-  Solo Battles in the Storm
+
+6		:-  Echoes of the Past
+
+7		:-  Rebuilding the Bridge
+
+8		:-  United in the Aftermath
+
+Bonds Forged in Distance
+
+
+1		:-  The Unbreakable Bond
+
+2		:-  New Horizons, Diverging Paths
+
+3		:-  Whispers of Distance
+
+4		:-  Fractured Trust
+
+5		:-  The Breaking Point
+
+6		:-  Shadows of the Past
+
+7		:-  A Call to Reconciliation
+
+8		:-  Forged in the Fire
+
+Whispers in Porcelain
+
+
+1		:-  The Artist's Lament
+
+2		:-  A Doll in the Dust
+
+3		:-  Echoes of the Unspoken
+
+4		:-  Framed in Deception
+
+5		:-  Nightmares That Bled
+
+6		:-  The Hollowed Cradle
+
+7		:-  The Bones of Legacy
+
+8		:-  The Morrigan's Whisper
+
+9		:-  The Fleshless Child
+
+10		:-  The Carving of Silence
+
+Whispers of the Unseen
+
+
+1		:-  The Whispering Forge
+
+2		:-  A Shadow in the Dust
+
+3		:-  The Guest Who Doesn’t Arrive
+
+4		:-  Whispers Not Spoken
+
+5		:-  Shadows on the Sill
+
+6		:-  Portraits of the Lost
+
+7		:-  The Favorite Child
+
+8		:-  Bruises of the Unseen
+
+9		:-  The Circle Unbroken
+
+10		:-  The Daughter’s Requiem
+
+Elspeth's Whisper
+
+
+1		:-  Whispers in the Clay
+
+2		:-  The Shop of Shadows
+
+3		:-  A Gift of Hollow Eyes
+
+4		:-  Portraits of the Unspoken
+
+5		:-  Nightmares with Teeth
+
+6		:-  The Hollow Cradle
+
+7		:-  The Invisible March
+
+8		:-  The Bone in the Loom
+
+9		:-  The Circle Unbroken
+
+10		:-  The Last Breath in the Fire
+
+Echoes of Elspeth
+
+
+1		:-  The Whispering Kiln
+
+2		:-  The Unseen Customer
+
+3		:-  A New Addition to the Family
+
+4		:-  Whispers in the Attic
+
+5		:-  Shadows in the Framed Light
+
+6		:-  Nightmares with Teeth
+
+7		:-  Familiar Stranger
+
+8		:-  The Bloodline's Echo
+
+9		:-  The Ritual of the Severed Root
+
+10		:-  What the Doll Remembered
+
+Whispers of the Porcelain Child
+
+
+1		:-  The Reawakening
+
+2		:-  Echoes in the Glass
+
+3		:-  The Blood and the Bone
+
+Elspeth's Hollow Lullaby
+
+
+1		:-  The Whispering Bones
+
+2		:-  Echoes in Porcelain
+
+3		:-  The Rite of the Hollow Queen
+
+Whispers in Porcelain
+
+
+1		:-  The Toymaker's Lament
+
+2		:-  Echoes in the Attic
+
+3		:-  The Blood and Bone Requiem
+
+Elspeth's Requiem
+
+
+1		:-  The Whispering Bones
+
+2		:-  Echoes in the Doll's Eyes
+
+3		:-  Blood and Brambles
+
+Whispers in Porcelain
+
+
+1		:-  The Whispering Doll
+
+2		:-  Shadows of the Ancestral
+
+3		:-  The Rite of Silence
+
+Whispers in Porcelain
+
+
+1		:-  The Forge of Regret
+
+2		:-  Echoes in the Dust
+
+3		:-  The Unseen Thread
+
+Echoes of Elspeth
+
+
+1		:-  The Bones of Memory
+
+2		:-  Whispers in the Workshop
+
+3		:-  The Doll's Resurrection
+
+4		:-  A Legacy of Clay and Blood
+
