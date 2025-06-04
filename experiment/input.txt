@@ -630,3 +630,43 @@ Elspeth's Eternal Whisper
 
 3		:-  Blood and Bone and Broken Voices
 
+Whispers in Porcelain
+
+
+1		:-  The Last Breath of Porcelain
+
+2		:-  Echoes in the Attic
+
+3		:-  The Curse of the Unseen Thread
+
+Elspeth's Hollow Whispers
+
+
+1		:-  The Whispering Forge
+
+2		:-  Echoes of the Forgotten
+
+3		:-  The Blood and the Bone
+
+Elspeth's Whispering Curse
+
+
+1		:-  The Bones of Memory: A Doll's Origin
+
+2		:-  The Antique Shop's Offerings: A Family's New Burden
+
+3		:-  Echoes in the Static: Shadows and Substitution
+
+4		:-  The Blood Rite of the Triple Spiral: Breaking the Cycle
+
+The Hollow Queen
+
+
+1		:-  The Whispering Cradle
+
+2		:-  Eyes in the Glass Darkly
+
+3		:-  Beneath the Porcelain Skin
+
+4		:-  The Curse of the Hollow Queen
+
