@@ -1,0 +1,11 @@
+# The Whispering Bones
+
+Deep in the Carpathian Mountains, where the pines clawed at the clouds, lay the village of Vâlcele Mort, a place where shadows clung like second skins. For generations, the villagers spoke of the Whispering Bones—not the bones of animals or men, but the skeletal remains of something older, buried beneath the Black Root Forest. The elders said it had been entombed there by kings who bargained with darker forces, and its whispers could be heard on nights when the moon bled crimson...
+
+**The village’s guardian**, an ancient man named Dragos, kept a lantern burning in his tower every night. His right hand was a gnarled knot of scars, a relic from the year the bones first stirred. 'They hunger for stories,' he’d warn children, though his eyes betrayed him—they flickered with the fear of secrets he alone knew. That morning, he found a new fissure splitting the earth near the forest’s edge, its jagged line glowing faintly, as if traced by a finger dipped in starlight...
+
+A teenage girl named Lira, with hair like raven’s feathers and a mind sharper than her father’s scythe, had never believed the tales. But that day, while gathering herbs, she unearthed a shard of bone half-buried in moss. It hummed against her palm, and when she held it to her ear, a voice coiled around her thoughts: *'Unbind us, little key.'* Her breath hitched—could bones truly speak? Or had the mountain’s chill finally frayed her nerves?
+
+By dusk, the first tremors came. The villagers gathered in the square, their prayers to forgotten gods rising like smoke. Dragos, clutching a withered sprig of wolfsbane, met Lira’s gaze. The old man’s lips moved silently: *'Run.'* But the forest itself seemed to lean closer, branches scraping rooftops like warning fingers. From the earth beneath the square, a low, resonant groan echoed—a sound that trembled in the marrow of bones...
+
+When the church bells rang backward, three times against the natural order, Lira knew she could not flee this. The bone shard scorched her pocket, and somewhere, deep in the forest’s heart, something roused. It murmured not to her, but *through* her, weaving its voice into her own thoughts: *'The circle is broken. Choose: shield or sacrifice.'* She sprinted toward the woods, toward the whispers, toward whatever legacy—or nightmare—awaited in the dark.
